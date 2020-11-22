@@ -1,0 +1,7 @@
+name: Leasher
+description: Leasher
+main: hazae41.leasher.Main
+api-version: 1.16
+version: 1.0
+author: hazae41
+depend: [ Kotlin ]
